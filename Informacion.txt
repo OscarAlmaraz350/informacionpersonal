@@ -1,0 +1,5 @@
+Nombre: Oscar Saul Zainos ALmaraz
+Edad: 23
+Expediente: 243733
+Carrera: Ing de Software
+Correo: oscar.zainos@gmail.com
